@@ -1,5 +1,9 @@
 # pdf-parse
 
+Forked from: https://gitlab.com/autokent/pdf-parse
+
+Just so I can disable the automatic tests that fail in ES6 when loading the module.
+
 **Pure javascript cross-platform module to extract texts from PDFs.**
 
 [![version](https://img.shields.io/npm/v/pdf-parse.svg)](https://www.npmjs.org/package/pdf-parse)
